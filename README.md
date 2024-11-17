@@ -1,3 +1,12 @@
+# Aviso
+
+Por favor, não mude NADA que fora da string `    <div className="App">
+      <header className="App-header">`, pq senão seu site será inválido.
+
+# Aviso
+
+Quaisquer danos ao seu computador, módulo `serve` e outros, a minha equipe não é responsabilizada por esses danos.
+
 # Introdução ao Create React App
 
 Este projeto foi inicializado com [Create React App](https://github.com/facebook/create-react-app).
